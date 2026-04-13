@@ -185,6 +185,11 @@ h2 {
   cursor: pointer;
   font-size: 14px;
 }
+.detail-card a{
+  font-size: 14px;
+  text-decoration: none;
+  color: white;
+}
 
 /* ========================= */
 /* 📱 Tablet */

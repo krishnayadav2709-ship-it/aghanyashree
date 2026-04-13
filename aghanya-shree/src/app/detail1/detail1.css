@@ -83,7 +83,7 @@ h1 {
 
 /* Text Section */
 .detail {
-    min-height: 480px; /* safer than fixed height */
+    min-height: 480px; 
     width: 56%;
     font-family: "Noto Sans Devanagari", sans-serif;
     font-size: 18px;
@@ -92,9 +92,7 @@ h1 {
     text-align: justify;
 }
 
-/* ========================= */
-/* ✅ Responsive Media Queries */
-/* ========================= */
+
 
 /* Tablet */
 @media (max-width: 1024px) {
